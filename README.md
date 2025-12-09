@@ -164,15 +164,15 @@ Once the backend is running, you can explore the full REST API documentation via
 
 | Landing Page | Student Dashboard |
 |:---:|:---:|
-| ![Logo](./images/landing.png) | ![Logo](./images/student.png) |
+| ![Landing](./images/landing.png) | ![Student](./images/student.png) |
 
 | Instructor Dashboard | Admin Dashboard |
 |:---:|:---:|
-| ![Logo](./images/instructor.png) | ![Logo](./images/admin.png) |
+| ![Instructor](./images/instructor.png) | ![Admin](./images/admin.png) |
 
 | Course Interface | AI Interview |
 |:---:|:---:|
-| ![Logo](./images/course.png) | ![Logo](./images/interview.png) |
+| ![Course](./images/course.png) | ![Interview](./images/interview.png) |
 
 -----
 
